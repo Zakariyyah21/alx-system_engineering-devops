@@ -1,0 +1,3 @@
+#!/bin/bash
+echo " This is the working directory"
+echo "This is moving on fine"
