@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "current working directory is : ${PWD}"
+echo "/c/Users/USER-PC/DOCUMENTS/GitHub/alx-system_engineering-devops/0x00-shell_basics"
